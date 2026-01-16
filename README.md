@@ -18,7 +18,6 @@ C:\\Spain\\Barcelona\\users\\Rainbow.iso 🌈
 ```python
 if user.isConnected(XYZ) {
   social.XYZ.connect( 
-    "Instagram", "https://www.instagram.com/rainbowcloud.xyz", 
     "Discuss AI", "https://discuss.ai.google.dev/u/xyz-rainbow/",
     "Discord", "rainbow.xyz" | "https://discord.gg/Ynz5K64n57", 
     "Email", "rainbow@rainbowtechnology.xyz",
@@ -26,7 +25,5 @@ if user.isConnected(XYZ) {
     "Google Developers", "https://developers.google.com/profile/u/xyz-rainbow"
   );
   
-  🪫- [Low Battery] 🏳️‍🌈 [Loading...|100%|🦄] 💫
-
-  user.setPhoneNumber("+34 647323740");  
+  🪫- [Low Battery] 🏳️‍🌈 [Loading...|100%|🦄] 💫,
 }
