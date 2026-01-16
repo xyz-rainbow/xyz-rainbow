@@ -13,7 +13,7 @@ C:\\Spain\\Barcelona\\users\\Rainbow.iso 🌈
 ### Decrypting Social Connections...
 
 [XYZ] яαιηвσω | [📸]-[@rainbowcloud.xyz]  
-// Instagram | Discuss AI | Discord | Email | GitHub | Google Developers
+// Discuss AI | Discord | Email | GitHub | Google Developers
 
 ```python
 if user.isConnected(XYZ) {
