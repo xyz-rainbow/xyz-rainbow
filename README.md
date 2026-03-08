@@ -1,16 +1,14 @@
-## Hi there 👋
+# [XYZ] яαιηвσω // ☁️ [XYZ] Cloud Archive's ☁️
 
-<!--
-**xyz-rainbow/xyz-rainbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!CAUTION]
+> ⓘ uꜱᴇʀ ɪꜱ ꜱᴜꜱᴘᴇᴄᴛᴇᴅ ᴛᴏ ʙᴇ ᴘᴀʀᴛ ᴏꜰ ᴀɴ ᴏɴʟɪɴᴇ ᴏʀɢᴀɴɪᴢᴀᴛɪᴏɴ. 
+> ʀᴇᴘᴏʀᴛ ᴀɴʏ ꜱᴜꜱᴘɪᴄɪᴏᴜꜱ ᴀᴄᴛɪᴠɪᴛʏ. ⓘ
 
-Here are some ideas to get you started:
+# X:\\spain\\users\\rainbow.sh 🌈 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Links
+| [Discuss AI](https://discuss.ai.google.dev/u/xyz-rainbow/) | [GitHub](https://github.com/xyz-rainbow) | [Google Developers](https://developers.google.com/profile/u/xyz-rainbow) |
+
+---
+
+# [🪫] Low Battery [🏳️‍🌈] Loading...|100%|🦄] 💫,
