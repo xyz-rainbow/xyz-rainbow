@@ -1,17 +1,17 @@
-# [XYZ] яαιηвσω // ☁️ [XYZ] Cloud Archive's ☁️
+# [XYZ] яαιηвσω // ☁️ [XYZ] Cloud Archives ☁️
 
 ---
 
-https://xyz-rainbow.github.io
+<https://xyz-rainbow.github.io>
 
 ---
 
 > [!CAUTION]
-> ⓘ uꜱᴇʀ ɪꜱ ꜱᴜꜱᴘᴇᴄᴛᴇᴅ ᴛᴏ ʙᴇ ᴘᴀʀᴛ ᴏꜰ ᴀɴ ᴏɴʟɪɴᴇ ᴏʀɢᴀɴɪᴢᴀᴛɪᴏɴ. 
+> ⓘ ᴜꜱᴇʀ ɪꜱ ꜱᴜꜱᴘᴇᴄᴛᴇᴅ ᴛᴏ ʙᴇ ᴘᴀʀᴛ ᴏꜰ ᴀɴ ᴏɴʟɪɴᴇ ᴏʀɢᴀɴɪᴢᴀᴛɪᴏɴ.
 > ʀᴇᴘᴏʀᴛ ᴀɴʏ ꜱᴜꜱᴘɪᴄɪᴏᴜꜱ ᴀᴄᴛɪᴠɪᴛʏ. ⓘ
 
-# X:\\spain\\users\\rainbow.sh 🌈 
+# X:\spain\users\rainbow.sh 🌈
 
 ---
 
-# [🪫] Low Battery [🏳️‍🌈] Loading...|100%|🦄] 💫,
+# [🪫] Low Battery [🏳️‍🌈] Loading...|100%|[🦄] 💫
