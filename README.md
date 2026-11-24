@@ -16,8 +16,9 @@
 
 # [🪫] Low Battery [🏳️‍🌈] Loading...|100%|[🦄] 💫
 
-## License
+[![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](LICENSE)
 
+## License
 Proprietary — all rights reserved. Copyright (c) 2026 Rainbow Technology (xyz-rainbow).
 
 The source may be viewed and evaluated in this repository. Copying, redistribution, sublicensing, published forks, derivative works, and any commercial or production use are prohibited without prior written permission. Issues and pull requests are welcome. A GitHub fork is allowed only to prepare pull requests to this repository.
